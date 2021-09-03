@@ -1,0 +1,24 @@
+{
+    "Dolor en el pecho al respirar o toser": {
+        "Prob":0.8
+    },
+    "Desorientacion": {
+        "Prob": 0.25
+    },
+    "Tos con flema ":{
+        "Prob": 0.35
+    },
+    "Fatiga":{
+        "Prob": 0.4
+    },
+    "Fiebre":{
+        "Prob": 0.35
+    },
+    "Dificultad para respirar":{
+        "Prob": 0.85
+    },
+    "Vomitos y diarrea": {
+        "Prob": 0.15
+    },
+    "Prob": 0.2
+}

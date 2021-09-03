@@ -1,0 +1,21 @@
+{
+    "Dolor de cabeza": {
+        "Prob":0.45
+    },
+    "Tos": {
+        "Prob": 0.70
+    },
+    "Dolor de cuerpo":{
+        "Prob": 0.65
+    },
+    "Fiebre":{
+        "Prob": 0.60
+    },
+    "Congestion":{
+        "Prob": 0.80
+    },
+    "Dolor de garganta":{
+        "Prob": 0.75
+    },
+    "Prob": 0.20
+}

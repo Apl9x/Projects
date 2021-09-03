@@ -1,0 +1,27 @@
+{
+    "Dolor de garganta": {
+        "Prob":0.80
+    },
+    "Sequedad de garganta": {
+        "Prob": 0.70
+    },
+    "Fiebre":{
+        "Prob": 0.35
+    },
+    "Dolor de cabeza":{
+        "Prob": 0.40
+    },
+    "Erupciones cutaneas":{
+        "Prob": 0.75
+    },
+    "Amigdalas rojas e inflamadas":{
+        "Prob": 0.85
+    },
+    "Dolor de cuerpo":{
+        "Prob": 0.25
+    },
+    "Voz ronca":{
+        "Prob": 0.70
+    },
+    "Prob": 0.2
+}

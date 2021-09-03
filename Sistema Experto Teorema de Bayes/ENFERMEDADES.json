@@ -1,0 +1,166 @@
+{
+    "ENFERMEDAD": [
+        {
+            "NOMBRE": "COVID",
+            "Fiebre": {
+                "Prob": 0.6
+            },
+            "Tos": {
+                "Prob": 0.55
+            },
+            "Dificultad para respirar": {
+                "Prob": 0.75
+            },
+            "Fatiga": {
+                "Prob": 0.6
+            },
+            "Dolor de cuerpo": {
+                "Prob": 0.55
+            },
+            "Dolor de cabeza": {
+                "Prob": 0.4
+            },
+            "Perdida del olfato o el gusto": {
+                "Prob": 0.6
+            },
+            "Dolor de garganta": {
+                "Prob": 0.65
+            },
+            "Congestion": {
+                "Prob": 0.7
+            },
+            "Vomitos y diarrea": {
+                "Prob": 0.6
+            },
+            "Prob": 0.3
+        },
+        {
+            "NOMBRE": "FARINGITIS",
+            "Dolor de garganta": {
+                "Prob": 0.8
+            },
+            "Sequedad de garganta": {
+                "Prob": 0.7
+            },
+            "Fiebre": {
+                "Prob": 0.35
+            },
+            "Dolor de cabeza": {
+                "Prob": 0.4
+            },
+            "Erupciones cutaneas": {
+                "Prob": 0.75
+            },
+            "Amigdalas rojas e inflamadas": {
+                "Prob": 0.85
+            },
+            "Dolor de cuerpo": {
+                "Prob": 0.25
+            },
+            "Voz ronca": {
+                "Prob": 0.7
+            },
+            "Prob": 0.2
+        },
+        {
+            "NOMBRE": "GRIPE",
+            "Dolor de cabeza": {
+                "Prob": 0.45
+            },
+            "Tos": {
+                "Prob": 0.7
+            },
+            "Dolor de cuerpo": {
+                "Prob": 0.65
+            },
+            "Fiebre": {
+                "Prob": 0.6
+            },
+            "Congestion": {
+                "Prob": 0.8
+            },
+            "Dolor de garganta": {
+                "Prob": 0.75
+            },
+            "Prob": 0.2
+        },
+        {
+            "NOMBRE": "INFLUENZA",
+            "Fiebre": {
+                "Prob": 0.75
+            },
+            "Tos": {
+                "Prob": 0.6
+            },
+            "Dolor de garganta": {
+                "Prob": 0.6
+            },
+            "Congestion": {
+                "Prob": 0.7
+            },
+            "Dolor de cuerpo": {
+                "Prob": 0.7
+            },
+            "Dolor de cabeza": {
+                "Prob": 0.7
+            },
+            "Fatiga": {
+                "Prob": 0.65
+            },
+            "Vomitos y diarrea": {
+                "Prob": 0.35
+            },
+            "Prob": 0.1
+        },
+        {
+            "NOMBRE": "NEUMONIA",
+            "Dolor en el pecho al respirar o toser": {
+                "Prob": 0.8
+            },
+            "Desorientacion": {
+                "Prob": 0.25
+            },
+            "Tos con flema ": {
+                "Prob": 0.35
+            },
+            "Fatiga": {
+                "Prob": 0.4
+            },
+            "Fiebre": {
+                "Prob": 0.35
+            },
+            "Dificultad para respirar": {
+                "Prob": 0.85
+            },
+            "Vomitos y diarrea": {
+                "Prob": 0.15
+            },
+            "Prob": 0.2
+        },
+        {
+            "NOMBRE": "NEUMONIA",
+            "Dolor en el pecho al respirar o toser": {
+                "Prob": 0.8
+            },
+            "Desorientacion": {
+                "Prob": 0.25
+            },
+            "Tos con flema ": {
+                "Prob": 0.35
+            },
+            "Fatiga": {
+                "Prob": 0.4
+            },
+            "Fiebre": {
+                "Prob": 0.35
+            },
+            "Dificultad para respirar": {
+                "Prob": 0.85
+            },
+            "Vomitos y diarrea": {
+                "Prob": 0.15
+            },
+            "Prob": 0.2
+        }
+    ]
+}

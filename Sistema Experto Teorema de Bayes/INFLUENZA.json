@@ -1,0 +1,27 @@
+{
+    "Fiebre": {
+        "Prob":0.75
+    },
+    "Tos": {
+        "Prob": 0.60
+    },
+    "Dolor de garganta":{
+        "Prob": 0.60
+    },
+    "Congestion":{
+        "Prob": 0.70
+    },
+    "Dolor de cuerpo":{
+        "Prob": 0.70
+    },
+    "Dolor de cabeza":{
+        "Prob": 0.70
+    },
+    "Fatiga":{
+        "Prob": 0.65
+    },
+    "Vomitos y diarrea": {
+        "Prob": 0.35
+    },
+    "Prob": 0.1
+}
